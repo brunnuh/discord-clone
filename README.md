@@ -1,5 +1,7 @@
 # discord-clone
 
+![alt text](src/imgs/pag.png)
+
 ## Project setup
 ```
 npm install
